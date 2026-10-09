@@ -16,4 +16,6 @@ Photos I take around London:
 - Have I used a photography technique or not? (Leading Lines, Rule of Thirds, etc)
     Colour can determine this, e.g. pink = leading lines, no colour = no technique used
 
-test test
+- What was this taken on? (My phone or Camera?)
+    Can be determined by stroke, stroke = camra, no stroke = iPhone
+
