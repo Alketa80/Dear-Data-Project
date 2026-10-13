@@ -16,6 +16,10 @@ Photos I take around London:
 
   Shade of shape can determine this, e.g. Lighter = Earlier in the day, Darker = Later in the day
 
+- How far from home it was taken?
+
+  Size of shape can determine this
+
 - Have I used a photography technique or not? (Leading Lines, Rule of Thirds, etc)
 
   Colour can determine this, e.g. pink = leading lines, no colour = no technique used
@@ -23,3 +27,7 @@ Photos I take around London:
 - What was this taken on? (My phone or Camera?)
 
   Can be determined by stroke, stroke = camra, no stroke = iPhone
+
+- The date it was taken?
+
+  Can be typed inside object or pops up when hovering over object
